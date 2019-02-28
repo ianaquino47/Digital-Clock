@@ -12,9 +12,9 @@ body{
 
 .main{
   background: #ccc;
-  width: 400px;
-  height: 175px;
-  margin: 100px auto;
+  width: 50%;
+  height: 200px;
+  margin: 190px auto;
   position: relative;
   padding: 30px;
 }
@@ -29,14 +29,14 @@ body{
   font-weight: bold;
   position: absolute;
   top: -15px;
-  left: 33%;
+  left: 41%;
 }
 .clock{
   background: #EBEBEB;
   text-align: center;
-  font-size: 55px;
+  font-size: 100px;
   height: 100%;
-  padding-top: 35px;
+  padding-top: 30px;
   font-family: Orbitron;
   border-radius: 4px;
 }
